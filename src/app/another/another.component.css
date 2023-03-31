@@ -1,0 +1,12 @@
+.another {
+    border: 1px solid blue;
+    padding: 1rem;
+    width: fit-content;
+}
+h2 {
+    color: purple;
+}
+p {
+    text-align: center;
+    border: 1px solid blue;
+}
